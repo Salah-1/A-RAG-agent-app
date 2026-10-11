@@ -7,11 +7,11 @@ Minimal LlamaIndex Q&A application using three Accenture FY2026 quarterly earnin
 ## Requirements
 
 - Python 3.11 or 3.12
-- Qroq. API key with available API credits (You can swap it with openai)
+- Groq. API key with available API credits (You can swap it with openai)
 
 ## Setup
 
-```powershell
+```
 cd qa_RAG
 py -3.11 -m venv .venv
 Activate it
